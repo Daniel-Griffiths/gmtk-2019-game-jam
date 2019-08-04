@@ -1,0 +1,5 @@
+﻿enum Direction
+{
+    left,
+    right
+}
